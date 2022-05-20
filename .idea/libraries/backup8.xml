@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="backup8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cloud-services-infra/env/manowar_dev-env/clusters/mow-priv/config/terraform/dwx-cross-account-trust-role/.terraform/modules/aws-dwx-policy/community-modules/terraform-aws-rds-aurora/v5.2.0/examples/s3_import/backup.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

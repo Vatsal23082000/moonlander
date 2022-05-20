@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="backup13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cloud-services-infra/env/manowar_dev-env/clusters/mow-priv/config/terraform/thunderhead-messagebroker/.terraform/modules/c19a98e918a1d6739b0d8b613c59f998/community-modules/terraform-aws-rds-aurora/v5.2.0/examples/s3_import/backup.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
